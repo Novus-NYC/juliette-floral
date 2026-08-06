@@ -40,12 +40,12 @@ export default function Footer() {
         <div className="border-t border-white/20 pt-6 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-white/90">
           <div>© {new Date().getFullYear()} Juliette Floral Design</div>
           <Link
-            href="https://nyc.voltanpo.org"
+            href="https://www.novusnyc.org/"
             target="_blank"
             rel="noreferrer"
-            className="hover:underline text-white/70"
+            className="text-[#F6B78D] hover:text-[#F6B78D]"
           >
-            Website made by @VoltaNYC
+            Made by Novus
           </Link>
         </div>
       </div>
