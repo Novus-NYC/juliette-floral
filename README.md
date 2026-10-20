@@ -29,13 +29,13 @@ This site is the online presence for Juliette Floral Design, showcasing floral c
 Install dependencies:
 
 ```bash
-node "C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js" install --prefix "c:\Users\allstarcode\Documents\Volta\juliette-floral"
+node "C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js" install --prefix "c:\Users\allstarcode\Documents\Novus\juliette-floral"
 ```
 
 Run locally:
 
 ```bash
-node "C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js" run dev --prefix "c:\Users\allstarcode\Documents\Volta\juliette-floral"
+node "C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js" run dev --prefix "c:\Users\allstarcode\Documents\Novus\juliette-floral"
 ```
 
 Preview URLs:
